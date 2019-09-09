@@ -20,6 +20,6 @@ This is a repo to help show my coworkers how git works!
 ### What excites you the most about the Innovation Hub?
 - **Andrew:** Getting to work all kinds of people! (Also VR)
 - **Orlando:**
-- **Gena:** Learning new skills :) and meeting interesting people
+- **Gena:** Learning new skills :) and helping people with projects and 3D printing
 - **Nate:**
 - **Ish:**
